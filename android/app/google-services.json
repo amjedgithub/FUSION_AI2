@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638816970610",
+    "project_id": "fusionaii",
+    "storage_bucket": "fusionaii.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638816970610:android:286a4728c51f02b6789feb",
+        "android_client_info": {
+          "package_name": "com.example.fusion_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJxYF8gr7A-QMjhGKujjvFijan5yglOcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
